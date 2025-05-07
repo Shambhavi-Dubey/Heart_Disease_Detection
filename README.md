@@ -69,7 +69,7 @@ Shambhavi Dubey<br>
 Final Year B.Tech CSE Student<br>
 Project Guide: ChatGPT
 
-Notes
-Models trained on a balanced dataset using ADASYN
-Optuna used for hyperparameter optimization
-GUI designed for simplicity and usability
+Notes<br>
+Models trained on a balanced dataset using ADASYN<br>
+Optuna used for hyperparameter optimization<br>
+GUI designed for simplicity and usability<br>
