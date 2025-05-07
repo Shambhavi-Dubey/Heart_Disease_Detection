@@ -66,8 +66,7 @@ Features include: age, sex, chest pain type, resting blood pressure, cholesterol
 
 Author
 Shambhavi Dubey<br>
-Final Year B.Tech CSE Student<br>
-Project Guide: ChatGPT
+Final Year B.Tech CSE Student
 
 Notes<br>
 Models trained on a balanced dataset using ADASYN<br>
