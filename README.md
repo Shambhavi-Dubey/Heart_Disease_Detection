@@ -65,8 +65,8 @@ Features include: age, sex, chest pain type, resting blood pressure, cholesterol
   - tkinter (comes with Python)
 
 Author
-Shambhavi Dubey
-Final Year B.Tech CSE Student
+Shambhavi Dubey<br>
+Final Year B.Tech CSE Student<br>
 Project Guide: ChatGPT
 
 Notes
